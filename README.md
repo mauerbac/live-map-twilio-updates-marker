@@ -2,7 +2,7 @@
 
 This app uses [Twilio SMS](http://twilio.com/) to send location codes, which updates a Google map. The locations codes correspond to a longitude and latitude. The map will drop a marker on this location.<br>
 
-[Check it out!-My working example. ](http://mattsauerbach.com/livemap/)
+[Check it out!](http://mattsauerbach.com/livemap/) - My working example...with Demo!
 
 ## Usage
 In this example, Project Cookie updates their selling locations throughout Northwestern's Campus.
